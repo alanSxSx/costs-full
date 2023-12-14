@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Cameras",
+      "budget": "13000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 13000,
+      "services": [
+        {
+          "name": "Instalação das Câmeras",
+          "cost": "3000",
+          "description": "Instalar as Câmeras de segurança",
+          "id": "2428338d-c5a7-4049-9c5c-8bf77dce9dea"
+        },
+        {
+          "name": "Comprar as Cameras",
+          "cost": "8000",
+          "description": "Adquirir as câmeras de segurança",
+          "id": "d1662590-be41-494e-8911-3efead8f325e"
+        },
+        {
+          "name": "Adquirir os Cabos de par trançado",
+          "cost": "1000",
+          "description": "Arquirir os cabos de par trançado",
+          "id": "be351f21-fc78-4389-b18c-13dba4197134"
+        },
+        {
+          "name": "Outros",
+          "cost": "1000",
+          "description": "Canaleta e outros",
+          "id": "c7c6a718-9ed5-416e-b649-7bcec21b0a77"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Panejamento"
+    }
+  ]
+}
